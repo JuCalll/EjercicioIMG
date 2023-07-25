@@ -1,0 +1,18 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+div img { 
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    border-style: double;
+}
+
+div img:hover{
+    filter: drop-shadow(0 0 2em #646cffaa);
+}
+
